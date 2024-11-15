@@ -6,3 +6,4 @@ fn main() {
 // 1. println() is a function, println!() is a macro, will discuss more about macro in chapter 19
 // 2. println!() is used to print a line to the terminal, it takes a format string as an argument
 // 3. ; indicates the end of an expression, every expression in Rust ends with a semicolon
+// 4. doing rustc main.py converts the code of main.rs to an executable.
